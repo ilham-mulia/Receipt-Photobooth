@@ -1,0 +1,7 @@
+{
+  "name": "Receipt Photobooth",
+  "description": "A minimalist, thermal-style photobooth application with customizable layouts and admin controls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
